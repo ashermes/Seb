@@ -1,0 +1,2 @@
+For Windows 7, all the AVD are saved under:
+C:\Users\<user_name>\.android\avd\

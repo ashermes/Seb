@@ -1,0 +1,8 @@
+In order to properly open the AVD screenshot, you will need to open the UIAutomatorViewer(.bat) from the ADT (Android SDK) folder.
+
+For my machine the location looks something like this: 
+C:\adt-bundle-windows-x86\sdk\tools\uiautomatorviewer.bat
+
+Opening a screenshot in the UI Automator offers the advantage that you can see the objects details (similar to how you can see in the Appium Inspector), but without needing to have the AVD/device opened and with the desired screen loaded.
+
+The screenshots (.uix files) can be opened in the UI Automator using the program's buttons.
